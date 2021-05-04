@@ -1,25 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import  { ContainerGrid } from './AppStyled.js';
+
+
+import Header from './Sections/Header/Header';
+import About from './Sections/About/About.js';
+import Services from './Sections/Services/Services.js';
+import Contact from './Sections/Contact/Contact.js';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	return (
+		<ContainerGrid>
+			<Header />
+			<About />
+			<Services />
+			<Contact />
+		</ContainerGrid>
+	);
 }
 
 export default App;
