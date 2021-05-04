@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+## Commands
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### npm install
 
-## Available Scripts
 
-In the project directory, you can run:
+## Case
+Mario tinha vários clientes, sua barbearia vivia lotada, mas por muito tempo ele pensou em um meio de divulgação e também, em um meio de marcar seus atendimentos de uma forma mais organizada, tendo a possibilidade de saber exatamente sua demanda de serviço.
+Para resolver esse problema, Mario pesquisou qual seria o melhor jeito de resolver isso e teve a idéia de fazer um site, no meio dessa pesquisa conheceu Kevin, que é Web Design iniciante e lhe mostrou vários modelos de layouts para seu projeto e o aconselhou qual seria o melhor que se encaixaria em seu negócio.
+Kevin sentiu a dor do cliente e criou o layout o mais rápido possível, totalmente responsivo e com um preço acessível, mas ainda faltava uma coisa...
+Mario tinha dúvidas em como seria notificado quando surgisse um novo atendimento, mas Kevin já esperava por isso e programou os formulários dos clientes para serem entregues para o e-mail de Mario.
+Depois disso Mário teve mais controle em seus atendimentos, começou a fazer descontos para os clientes que marcavam seus horários pelo web site e Kevin conseguiu um cliente para seu portfólio.
 
-### `npm start`
+## Comments
+Essa foi uma luta que eu tive na minha caminhada, o site não está totalmente pronto, porém eu aprendi muito em questão de responsividade, cores, tamanho de textos, 
+design, efeitos, prototipagem no figma e muito mais.
+O nosso formulário ainda não está pronto, e quero adicionar além do javascript que uso no front, o python para trabalhar no back e fazer o envio de formulários.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Link do Figma
+https://www.figma.com/file/BYKRwzD44jUg0rRm6Rk8Q9/Portfólio?node-id=0%3A1
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Link Vercel
+https://barber-fictitious.vercel.app
