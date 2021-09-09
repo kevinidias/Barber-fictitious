@@ -11,8 +11,7 @@ Mario tinha dúvidas em como seria notificado quando surgisse um novo atendiment
 Depois disso Mário teve mais controle em seus atendimentos, começou a fazer descontos para os clientes que marcavam seus horários pelo web site e Kevin conseguiu um cliente para seu portfólio.
 
 ## Comments
-Essa foi uma luta que eu tive na minha caminhada, o site não está totalmente pronto, porém eu aprendi muito em questão de grid/flexbox, responsividade "mobile first", cores, tamanho de textos, design, efeitos, prototipagem no figma e muito mais.
-O nosso formulário ainda não está pronto, e quero adicionar além do javascript que uso no front, o python para trabalhar no back e fazer o envio de formulários.
+Essa foi uma luta que eu tive na minha caminhada, eu aprendi muito em questão de grid/flexbox, responsividade "mobile first", cores, tamanho de textos, design, efeitos, prototipagem no figma e muito mais.
 
 ## Link do Figma
 https://www.figma.com/file/BYKRwzD44jUg0rRm6Rk8Q9/Portfólio?node-id=0%3A1
